@@ -1,5 +1,5 @@
 {
-    "name": "cerbero/laravel-enum",
+    "name": "sypspace/laravel-enum",
     "type": "library",
     "description": "Enum generator for Laravel.",
     "keywords": [
