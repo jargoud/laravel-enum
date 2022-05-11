@@ -1,5 +1,5 @@
 {
-    "name": "cerbero/laravel-enum",
+    "name": "sypspace/laravel-enum",
     "type": "library",
     "description": "Enum generator for Laravel.",
     "keywords": [
@@ -16,7 +16,7 @@
         "role": "Developer"
     }],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^8.0",
         "illuminate/console": "^5.6|^6.0|^7.0|^8.0",
         "illuminate/support": "^5.6|^6.0|^7.0|^8.0",
         "rexlabs/enum": "^2.0"
